@@ -1,0 +1,60 @@
+Task: Difference between Procedure Oriented Programming and OOPS
+====
+
+Class: template(fields + methods)
+
+and class is a logical entity(there is no memory allocated to class)
+
+===================================================================
+for example,
+
+Employee
+	-fields
+		-id
+		-name
+		-designation
+		-department
+		-salary
+		-address
+	
+	-methods
+		-getAllEmployees()
+		
+	-constructors
+	-blocks
+	-inner classes/nested classes
+	
+	-** abstract methods
+	
+-------------------------------------------------------------------
+1. about class + properties
+2. object creation based on class
+3. constructors
+4. setters and getters
+5. types of variables
+		- class-level variables
+				-non-static/instance(object) variables
+				-static/class variables
+				
+		- method/constructor/block
+				-parameters/local variables
+6. blocks
+	-static block
+7. this and new keywords
+
+------------------------------------------------------------------
+8. Types of java classes
+	- General/Concrete class
+	- Abstract class
+	- Interface class 
+
+9. naming conventions
+
+Principle OOPS:
+	-Encapsulation
+	-Abstraction
+	-Inheritance
+	-Polymorphism
+- Packages and Access modifiers
+- About Super most class in Java, Object class
+- Cloning
